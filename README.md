@@ -1,10 +1,10 @@
 Hi 👋 My name is Stepháñy pedroso
 =================================
 
-* 🌍  I'm based in Reino Unido
+* 🌍  I'm based in Austria
 * 🖥️  See my portfolio at [https://github.com/StephanyPedroso](http://github.com/StephanyPedroso)
 * ✉️  You can contact me at [stefhanypedroso08@gmail.com](mailto:stefhanypedroso08@gmail.com)
-* 🧠  I'm learning php
+* 🧠  I'm learning php and Python
 * ⚡  ⚡ 👨‍💻 I am a beginner programming student, passionate about technology and always seeking new challenges. Currently, I am focused on learning PHP and exploring its various applications. I am eager to grow as a developer and contribute to projects that allow me to apply and expand my knowledge. Let's face new challenges together!
 
 <a href="https://www.x.com/stephanype7593" target="_blank" rel="noreferrer"><img
@@ -15,8 +15,23 @@ src="https://img.shields.io/twitter/follow/stephanype7593?logo=twitter&style=for
 
 
 <p align="left">
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+  </a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" />
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+  </a>
 </p>
+
 
 
 ### Socials
