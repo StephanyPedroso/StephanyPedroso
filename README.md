@@ -46,10 +46,4 @@ src="https://img.shields.io/twitter/follow/stephanype7593?logo=twitter&style=for
 
 <a href="http://www.github.com/StephanyPedroso"><img src="https://github-readme-streak-stats.herokuapp.com/?user=StephanyPedroso&stroke=ffffff&background=22272e&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/stephanypedroso"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-
-</ul>
