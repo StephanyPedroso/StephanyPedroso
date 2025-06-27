@@ -5,7 +5,7 @@ Hi 👋 My name is Stepháñy pedroso
 * 🖥️  See my portfolio at [https://github.com/StephanyPedroso](http://github.com/StephanyPedroso)
 * ✉️  You can contact me at [stefhanypedroso08@gmail.com](mailto:stefhanypedroso08@gmail.com)
 * 🧠  I'm learning php and Python
-* ⚡  ⚡ 👨‍💻 I am a beginner programming student, passionate about technology and always seeking new challenges. Currently, I am focused on learning PHP and exploring its various applications. I am eager to grow as a developer and contribute to projects that allow me to apply and expand my knowledge. Let's face new challenges together!
+* ⚡  ⚡ 👨‍💻 I am a beginner programming student, passionate about technology and always seeking new challenges. Currently, I am focused on learning PHP and PYTHON exploring its various applications. I am eager to grow as a developer and contribute to projects that allow me to apply and expand my knowledge. Let's face new challenges together!
 
 <a href="https://www.x.com/stephanype7593" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/stephanype7593?logo=twitter&style=for-the-badge&color=ef4444&labelColor=22272e"
